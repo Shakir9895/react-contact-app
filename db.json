@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "name": "fifa 22",
+      "Email": "rifu@123gmail.com",
+      "Phone": "9895610041",
+      "id": 1661843988346,
+      "fav": false
+    },
+    {
+      "name": "call of duty",
+      "Email": "muhammedshakir868@gmail.com",
+      "Phone": "9895610041",
+      "id": 1661922547872,
+      "fav": true
+    },
+    {
+      "name": "kallungal shakir",
+      "Email": "kallungal@123gmail.com",
+      "Phone": "7025315886",
+      "id": 1661922587961,
+      "fav": false
+    }
+  ]
+}
